@@ -7,4 +7,4 @@ The angle of the clock hand shows the hours and the number of lit LEDs shows the
 
 In the image below the time is 10:45.
 
-![Clock Image](https://github.com/MatthewChamot/LEDAnalogClock/Clock.jpg)
+![Clock Image](Clock.JPG)
