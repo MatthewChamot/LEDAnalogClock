@@ -5,7 +5,7 @@ Project by Matthew Chamot
 * The angle of the clock hand shows the hours and the number of lit LEDs shows the minutes.
 * In the image below the time is 10:45.
 
-<img src="Clock.JPG" alt="clock image" style="width: 100px;"/>
+![clock image](Clock.JPG){:height="36px" width="36px"}
 
 Sometimes in the middle of the night, it is hard to easily see the time.  This clock acts as a night light and is also easy to read, even if your eyes are still a little sleepy.  
 
